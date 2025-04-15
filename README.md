@@ -52,6 +52,8 @@ BUZZER_SOUND=sounds/buzzer.wav
 SECONDARY_BUZZER=sounds/secondary_buzzer.wav
 MODEL_PATH=models/yawn_detection_model.h5
 
+Download the model from here : https://drive.google.com/file/d/1UInMiIbaHChmI-KSQ7VRMp_53RZpSDd4/view?usp=drive_link
+
 
 Running the Application
 
